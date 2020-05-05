@@ -4,5 +4,11 @@
         "nama":"nabi adam",
         "latin":"nabi adam",
         "detail":"ini cerita nabi adam"
+    },
+    {
+        "id":"2",
+        "nama":"nabi nuh"
+        "latin":"nabi nuh",
+        "detail":"ini detail"
     }
 ]
