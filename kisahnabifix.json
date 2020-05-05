@@ -1,7 +1,6 @@
 [
-
 	{   
-		"id" : "1",
+	"id" : "1",
         "nama" : "Nabi Adam",
         "latin" : "Nabi Adam", 
         "detail" : "merupakan nabi pertama sekaligus manusia pertama yang Allah ciptakan. Sebelumnya Nabi Adam tinggal di surga dengan pasangannya Hawa.Namun atas bujukan iblis, Adam dan Hawa memakan buah khuldi yang telah dilarang oleh Allah. Meski telah bertaubat, Allah tetap memerintahkan mereka turun ke bumi.",
@@ -14,7 +13,7 @@
     	"imgURL":"https://github.com/MuhammadArifin22/FinalProject/blob/imageKisahNabi/Nabi%20Idris.jpg"
     },
 	{ 
-	  	"id" : "3",
+	"id" : "3",
         "nama" : "Nabi Nuh",
         "latin" : "Nabi Nuh", 
         "detail" : "adalah salah satu Nabi yang masuk dalam golongan Ulul Azmi, artinya memiliki cobaan yang berat namun mampu menghadapinya dengan kesabaran yang luar biasa. Semasa dakwahnya, Nabi Nuh menerima banyak tantangan dan penolakan.Bahkan anak dan istrinya pun turut membenci Nabi Nuh dan menganggapnya gila. Ketika kaumnya tetap bertindak dzalim, Allah pun membinasakan mereka dalam banjir besar. Namun Nabi Nuh juga mendapatkan mukjizat yakni mampu membuat bahtera/perahu dengan ukuran panjang 300 hasta dan 50 hasta. Setiap makhluk baik manusia maupun binatang yang ada diperahu tersebut selamat dari banjir.",
