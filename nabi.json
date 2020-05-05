@@ -3,7 +3,8 @@
         "id":"1",
         "nama":"Nabi Adam",
         "latin":"Nabi Adam",
-        "detail":"Gunung berapi kerucut yang secara administratif termasuk dalam wilayah dua kabupaten,yakni kuningan dan kabupaten majalengka dengan ketinggian 3078 mpdl. Gunung ini merupakan gunung tertinggi di Jawa Barat."
+        "detail":"Gunung berapi kerucut yang secara administratif termasuk dalam wilayah dua kabupaten,yakni kuningan dan kabupaten majalengka dengan ketinggian 3078 mpdl. Gunung ini merupakan gunung tertinggi di Jawa Barat.",
+        "imgURL":"https://raw.githubusercontent.com/shalsaazzahra11/mountain-asset/data_mountain/mountain_image/papandayan.jpg"
     },
      {
         "id":"2",
