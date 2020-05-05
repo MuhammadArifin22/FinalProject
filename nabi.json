@@ -1,8 +1,14 @@
 [
     {
         "id":"1",
-        "nama":"Ciremai",
-        "latin":"Ketinggian 3078 mpdl",
-        "detail":"Gunung berapi kerucut yang secara administratif termasuk dalam wilayah dua kabupaten,yakni kuningan dan kabupaten majalengka dengan ketinggian 3078 mpdl. Gunung ini merupakan gunung tertinggi di Jawa Barat."
+        "nama":"Nabi Adam",
+        "latin":"Nabi Adam",
+        "detail":"merupakan nabi pertama sekaligus manusia pertama yang Allah ciptakan. Sebelumnya Nabi Adam tinggal di surga dengan pasangannya Hawa.Namun atas bujukan iblis, Adam dan Hawa memakan buah khuldi yang telah dilarang oleh Allah. Meski telah bertaubat, Allah tetap memerintahkan mereka turun ke bumi."
+    },
+    {
+        "id":"2",
+        "nama":"Nabi Idris",
+        "latin":"Nabi Idris",
+        "adalah keturunan ke-6 Nabi Adam yang terkenal dengan kecerdasannya. Selama berdakwah, Nabi Idris memberikan pesan kepada kaumnya, antara lain nasihat untuk menjadikan sholat jenazah sebagai penghormatan, menasehati untuk selalu bersyukur atas nikmat Allah, menghindari hasad dan dengki, melarang menumpuk harta yang tak bermanfaat, dan mematuhi perintah Allah dengan ikhlas, baik dalam sholat, berpuasa, dan amalan lainnya."
     }
 ]
